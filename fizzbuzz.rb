@@ -1,5 +1,5 @@
 def fizzbuzz(number)
-  result = ""
+  result = nil
   if number % 3 == 0
     result += "Fizz"
   end
