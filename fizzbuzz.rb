@@ -8,5 +8,6 @@ def fizzbuzz(number)
   end
   if result == ""
     return nil
+  end
   return result
 end
